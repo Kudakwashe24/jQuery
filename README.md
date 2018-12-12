@@ -1,2 +1,2 @@
 # jQuery
-learing jQuery
+learning jQuery
